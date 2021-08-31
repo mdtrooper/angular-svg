@@ -4,6 +4,10 @@ It is a fork of original (without git/cvs/hg/fossil repository) from [angular-sv
 
 This readme is working progress (put the oldie gif) .
 
+## TO-DO
+
+- Now it working only for angular7. Maybe it is good that it working with a near or last version of angular.
+
 ## Original author
 
  - kata.yaswanth
