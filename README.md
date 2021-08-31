@@ -1,4 +1,15 @@
+# Angular-svg
 
+It is a fork of original (without git/cvs/hg/fossil repository) from [angular-svg in npm](https://www.npmjs.com/package/angular-svg) .
+
+This readme is working progress (put the oldie gif) .
+
+## Original author
+
+ - kata.yaswanth
+
+---
+# Old
 
 ## SetUp
 
@@ -65,10 +76,3 @@ Add a root svg tag in your html
      [text]="text">test</g>
 
 // Svg end tag
-
-#Demo 
-[Working Demo](https://stackblitz.com/edit/angular-svg-showcase?file=app%2Fapp.component.html)
-
-
-#Support
-Please reach me for any issues/features/updates :kata.yaswanth@gmail.com
